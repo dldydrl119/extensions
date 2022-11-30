@@ -1,6 +1,4 @@
-<style>
-p {color:black;}
-</style>
+
 # extensions
 <p>chrome://extensions/
 <p>개발자모드 on
